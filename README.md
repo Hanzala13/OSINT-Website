@@ -134,7 +134,7 @@ Google has the world’s largest database of Internet content, and it provides a
 - Quotes – the quote operator enables searching for a specific string. Attackers can search for a variety of strings that indicate common server issues or other vulnerabilities.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
 
 ## Contact
 For any inquiries, please contact:
