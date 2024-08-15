@@ -4,13 +4,13 @@
 
 ## Table of Contents
 - Introduction
-Features
-Installation
-Usage
-Project Structure
-Configuration
-Examples
-Contributing
-License
-Contact
-Introduction
+- Features
+- Installation
+- Usage
+- Project Structure
+- Configuration
+- Examples
+- Contributing
+- License
+- Contact
+## Introduction
