@@ -1,5 +1,6 @@
 # OSINT Project
 <img src="https://reconshell.com/wp-content/uploads/2021/11/osin-1024x467.png" width="750" height="380">
+
 ## Table of Contents
 - Introduction
 - Features
@@ -132,4 +133,12 @@ Google has the world’s largest database of Internet content, and it provides a
 - Intitle/inurl – looks for sensitive information in a document title or URL. For example, any URL containing the term “admin” could be useful to an attacker.
 - Quotes – the quote operator enables searching for a specific string. Attackers can search for a variety of strings that indicate common server issues or other vulnerabilities.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any inquiries, please contact:
+
+Name: Hanzala13
+Email: hanzalaansari674@gmail.com
 
