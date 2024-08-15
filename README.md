@@ -1,3 +1,16 @@
 # OSINT-Website
 
-# What is OSINT?
+# OSINT Project
+
+## Table of Contents
+- Introduction
+Features
+Installation
+Usage
+Project Structure
+Configuration
+Examples
+Contributing
+License
+Contact
+Introduction
